@@ -21,8 +21,8 @@ a:focus-visible,button:focus-visible{outline:3px solid #D7FF3A;outline-offset:3p
 .hv2:hover{background:#D7FF3A !important;color:#22252D !important;transform:translateY(-2px) !important}
 .hv3:hover{border-color:#F4F2EE !important;color:#F4F2EE !important;transform:translateY(-2px) !important}
 .hv4:hover{border-color:#22252D !important}
-.hv5:hover{background:#2340FF !important;color:#F4F2EE !important;transform:translateY(-2px) !important}
-.hv6:hover{background:#22252D !important}
-.hv7:hover{background:#F4F2EE !important;color:#22252D !important;transform:translateY(-2px) !important}
+.hv5:hover{background:#22252D !important}
+.hv6:hover{background:#F4F2EE !important;color:#22252D !important;transform:translateY(-2px) !important}
+.hv7:hover{background:#2340FF !important;color:#F4F2EE !important;transform:translateY(-2px) !important}
 .hv8:hover{background:#22252D !important;color:#F4F2EE !important;transform:translateY(-2px) !important}
 .hv9:hover{color:#2340FF !important}
